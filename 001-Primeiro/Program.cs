@@ -7,6 +7,7 @@ namespace _001_Primeiro
         static void Main(string[] args)
         {
             Console.WriteLine("Ola, mundo!");
+            Console.WriteLine("Bom dia!");
         }
     }
 }
